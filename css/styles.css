@@ -43,6 +43,7 @@ h1{
     padding-top:  100px;
     height: 517px;
     margin-right:auto;
+    margin-left:auto;
 }
 .My-photo{
     margin: 50px auto 30px;
@@ -163,6 +164,8 @@ a{
     background-color:#66BFBF;
     height:110px;
     padding-top: 45px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .copyright{
     color:#EAF6F6;
