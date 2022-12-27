@@ -44,6 +44,7 @@ h1{
     height: 517px;
     margin-right:0;
     margin-left:0;
+    padding-right: 0;
 }
 .My-photo{
     margin: 50px auto 30px;
@@ -167,6 +168,8 @@ a{
     margin-right: auto;
     margin-left: auto;
     width: 100%;
+    padding-right: 0;
+    padding-left: 0;
 }
 .copyright{
     color:#EAF6F6;
