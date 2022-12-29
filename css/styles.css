@@ -6,6 +6,7 @@ body{
     
 }
 
+
 h1{
     color: #66BFBF;
     font-size: 5.6rem;
@@ -43,9 +44,8 @@ h1{
     position: relative;
     padding-top:  100px;
     height: 517px;
-    margin-right:0;
-    margin-left:0;
-    padding-right: 0;
+    margin-right:auto;
+    margin-left:auto;
 }
 .My-photo{
     margin: 50px auto 30px;
@@ -166,11 +166,9 @@ a{
     background-color:#66BFBF;
     height:110px;
     padding-top: 45px;
-    margin-right: auto;
+    margin-right: 0;
     margin-left: auto;
-    width: 100%;
-    padding-right: 0;
-    padding-left: 0;
+    
 }
 .copyright{
     color:#EAF6F6;
