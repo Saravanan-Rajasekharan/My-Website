@@ -6,6 +6,11 @@ body{
     
 }
 
+::-webkit-scrollbar {
+        width: 0;  /* Remove scrollbar space */
+        background: transparent;  /* Optional: just make scrollbar invisible */
+    }
+
 
 h1{
     color: #66BFBF;
@@ -184,12 +189,7 @@ a{
     text-decoration:none;
 }
 
-/********** Media Query ************/
 
-@media(max-width:990px){
-    ::-webkit-scrollbar {
-        width: 0;  
-        background: transparent;  
-    }
-}
+
+
 
