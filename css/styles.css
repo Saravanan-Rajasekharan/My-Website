@@ -183,3 +183,13 @@ a{
     font-weight: bold;
     text-decoration:none;
 }
+
+/********** Media Query ************/
+
+@media(max-width:990px){
+    ::-webkit-scrollbar {
+        width: 0;  
+        background: transparent;  
+    }
+}
+
